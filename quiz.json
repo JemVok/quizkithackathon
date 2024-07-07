@@ -1,19 +1,74 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of famous musicians and bands.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who was the King of Pop?",
+      "answers": ["Jackson", "Prince", "Elvis"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which band sang 'Hey Jude'?",
+      "answers": ["Beatles", "Queen", "Eagles"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is known as the Queen of Pop?",
+      "answers": ["Madonna", "Britney", "Gaga"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which band sang 'Bohemian Rhapsody'?",
+      "answers": ["Queen", "ABBA", "U2"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the lead singer of U2?",
+      "answers": ["Bono", "Edge", "Larry"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sang 'Purple Rain'?",
+      "answers": ["Prince", "Elton", "Bowie"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which band is known for 'Hotel California'?",
+      "answers": ["Eagles", "Journey", "Queen"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the Material Girl?",
+      "answers": ["Madonna", "Cher", "Britney"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sang 'Imagine'?",
+      "answers": ["Lennon", "McCartney", "Harrison"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which band is fronted by Mick Jagger?",
+      "answers": ["Stones", "Beatles", "Queen"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the lead singer of Nirvana?",
+      "answers": ["Cobain", "Grohl", "Novoselic"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sang 'Like a Rolling Stone'?",
+      "answers": ["Dylan", "Cash", "Springsteen"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which band is known for 'Smells Like Teen Spirit'?",
+      "answers": ["Nirvana", "Pearl", "Soundgarden"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who sang 'I Will Always Love You'?",
+      "answers": ["Whitney", "Mariah", "Adele"],
       "correctAnswerIndex": 0
     }
   ]
